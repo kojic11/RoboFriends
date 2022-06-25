@@ -1,0 +1,5 @@
+#cards{
+    background: rgba(0, 0, 0, 0.363);  
+    backdrop-filter: blur(2px);
+    scale: 0.9;
+}

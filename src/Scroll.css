@@ -1,0 +1,6 @@
+#scrolls::-webkit-scrollbar{
+    display: none;
+}
+#scrolls{
+    scrollbar-width: none;  
+}
